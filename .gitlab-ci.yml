@@ -1,0 +1,9 @@
+stages:
+  - build
+build_job:
+  stage: build
+  tags:
+    - website
+  script:
+    - python3 main.py
+
