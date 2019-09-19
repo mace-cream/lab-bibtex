@@ -29,4 +29,4 @@ def gather_bibs():
 # 异常处理暂时无效，需要进一步解决
 # 目前若是想生成正确的html，需要所有bib文件正确
 def export_html():
-    format_database('set/allbibs.bib', 'set/export.html', 'bibtex', 'html')
+    format_database('set/allbibs.bib', 'set/index.en.md', 'bibtex', 'md')
