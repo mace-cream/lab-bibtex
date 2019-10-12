@@ -46,11 +46,11 @@ In *2019 22nd International Conference on Intelligent Transportation Systems \(I
 [16] Xinyu Liu, Xinlei Chen, Xiangxiang Xu, Enhan Mai, Hae Young Noh, Pei Zhang, and Lin Zhang\.
 Delay effect in mobile sensing system for urban air pollution monitoring\.
 In *Proceedings of the 15th ACM Conference on Embedded Network Sensor Systems*, SenSys '17, 73:1–73:2\. New York, NY, USA, 2017\. ACM\.
-URL: [http://doi\.acm\.org/10\.1145/3131672\.3136997](http://doi.acm.org/10.1145/3131672.3136997), [doi:10\.1145/3131672\.3136997](https://doi.org/10.1145/3131672.3136997)\.  
+[doi:10\.1145/3131672\.3136997](https://doi.org/10.1145/3131672.3136997)\.  
 [17] Xinyu Liu, Xiangxiang Xu, Xinlei Chen, Enhan Mai, Hae Young Noh, Pei Zhang, and Lin Zhang\.
 Individualized calibration of industrial\-grade gas sensors in air quality sensing system\.
 In *Proceedings of the 15th ACM Conference on Embedded Network Sensor Systems*, SenSys '17, 74:1–74:2\. New York, NY, USA, 2017\. ACM\.
-URL: [http://doi\.acm\.org/10\.1145/3131672\.3136998](http://doi.acm.org/10.1145/3131672.3136998), [doi:10\.1145/3131672\.3136998](https://doi.org/10.1145/3131672.3136998)\.  
+[doi:10\.1145/3131672\.3136998](https://doi.org/10.1145/3131672.3136998)\.  
 [18] Rui Ma, Xiangxiang Xu, Hae Young Noh, Pei Zhang, and Lin Zhang\.
 Generative model based fine\-grained air pollution inference for mobile sensing systems\.
 In *Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems*, 426–427\. ACM, 2018\.  
@@ -76,7 +76,7 @@ In *2019 18th ACM/IEEE International Conference on Information Processing in Sen
 Gotcha: a mobile urban sensing system\.
 In *Proceedings of the 12th ACM Conference on Embedded Network Sensor Systems*, 316–317\. ACM, 2014\.  
 [26] Xiangxiang Xu, Xinlei Chen, Xinyu Liu, Hae Young Noh, Pei Zhang, and Lin Zhang\.
-Gotcha ii: deployment of a vehicle\-based environmental sensing system\.
+Gotcha ii : deployment of a vehicle\-based environmental sensing system\.
 In *Proceedings of the 14th ACM Conference on Embedded Network Sensor Systems CD\-ROM*, 376–377\. ACM, 2016\.  
 [27] Xiangxiang Xu, Shao\-Lun Huang, Lizhong Zheng, and Lin Zhang\.
 The geometric structure of generalized softmax learning\.
