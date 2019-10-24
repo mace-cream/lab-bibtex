@@ -1,4 +1,4 @@
-###Artificial Intelligence
+### Artificial Intelligence
 [1] Yajie Bao, Yang Li, Shao\-Lun Huang, Lin Zhang, Amir R Zamir, and Leonidas J Guibas\.
 An information\-theoretic metric of transferability for task transfer learning\.
 In *26th IEEE International Conference on Image Processing \(ICIP\)*\. 2019\.  
@@ -69,7 +69,7 @@ In *International Conference on Neural Information Processing*\. 2019\.
 A hybrid technique for travel time estimation in sparse data environments\.
 In *Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems*\. 2019\.  
 ***
-###Internet of Things
+### Internet of Things
 [1] Weixi Gu, Yue Zhang, Fei Ma, Khalid Mosalam, Lin Zhang, and Shiguang Ni\.
 Real\-time emotion detection via e\-see\.
 In *Proceedings of the 16th ACM Conference on Embedded Networked Sensor Systems*, 420–421\. ACM, 2018\.  
