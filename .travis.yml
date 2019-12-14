@@ -3,4 +3,5 @@ dist: xenial
 language: python
 python: 3.6
 script:
+  - mkdir temp
   - python main.py
