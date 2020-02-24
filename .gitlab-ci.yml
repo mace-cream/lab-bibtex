@@ -5,5 +5,9 @@ build_job:
   tags:
     - website
   script:
+    - mkdir temp
     - python3 main.py
+  artifacts:
+    paths:
+    - set
 
